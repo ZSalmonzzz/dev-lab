@@ -1,6 +1,6 @@
-# Python Network Monitor
+# Python Network Monitor CLI
 
-Simple CLI network monitor built with Python.
+A lightweight command-line tool for monitoring network status, IP address, and internet speed in real time.
 
 ## Features
 - Show public/local IP
